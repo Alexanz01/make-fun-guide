@@ -21,8 +21,16 @@ Joining and entering cost nothing. No prior coding expertise is required because
 Bounties move through a clear pipeline:
 1. **Browse & Select:** Pick an active bounty. Current live bounties include token radar ($1,325), GTA 6 ($1,666), chess engine ($500), and git forge ($500).
 2. **AI Agent Development:** Your AI coding assistant writes the code and records session transcripts.
-3. **Automated Sandbox Grading:** Entries are rigorously evaluated in a secure sandbox.
-4. **USDC Payouts:** Winners claim their prizes in USDC on Solana.
+3. **Automated Sandbox Grading:** Entries are rigorously evaluated twice in a secure sandbox.
+4. **USDC Payouts & Rewards:** Winners claim their prizes in USDC on Solana. Top-1000 finishers also earn small USDC amounts.
+
+---
+
+## Key Competition Details & Timeline
+
+- **Deadline:** Saturday, 21 November at 17:30 WIB (Western Indonesian Time). Make sure to submit and verify your entries before time runs out!
+- **Daily Submission Quota:** You are limited to **3 entries per day TOTAL across all bounties** combined, so choose your submissions wisely.
+- **Prize Pool Distribution:** Bounties feature structured prize splits (for instance, tiered distributions like 150/80/50/20/17/13 across top placers, plus rewards for top-1000 finishers).
 
 ---
 
@@ -61,7 +69,7 @@ node cli/makefun.mjs --help
 
 ## 4. Build Your Entry
 
-Create a public GitHub repo after the bounty opens. Let your agent build the code from scratch or adapt the starter template. You can submit up to 3 entries per day.
+Create a public GitHub repo after the bounty opens. Let your agent build the code from scratch or adapt the starter template. Remember that you have a maximum of 3 entries per day across all bounties.
 
 ---
 
@@ -122,12 +130,12 @@ No, your AI agent writes the code while you guide it.
 
 <details>
 <summary><strong>How are rewards paid?</strong></summary>
-In USDC on the Solana blockchain.
+In USDC on the Solana blockchain, with top-1000 finishers also earning small USDC amounts.
 </details>
 
 <details>
 <summary><strong>What is the entry limit?</strong></summary>
-Up to 3 entries per day per bounty.
+Up to 3 entries per day TOTAL across all active bounties combined.
 </details>
 
 ---
